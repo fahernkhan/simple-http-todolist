@@ -1,12 +1,12 @@
 # simple-http-todolist
 ## 🔥 Key Takeaways
-**golang:
-✔ **Gunakan pointer untuk method yang mengubah struct.
-✔ **Pakai interface untuk abstraction dan testing.
-✔ **Selalu return error, bukan boolean atau string.
-✔ **Gunakan context.Context untuk handle request lifecycle.
-✔ **Gunakan log, bukan fmt.Println().
-✔ **Gunakan goroutines dan channel untuk concurrency.
+- **golang:**
+- ✔ **Gunakan pointer untuk method yang mengubah struct.**
+- ✔ **Pakai interface untuk abstraction dan testing.**
+- ✔ **Selalu return error, bukan boolean atau string.**
+- ✔ **Gunakan context.Context untuk handle request lifecycle.**
+- ✔ **Gunakan log, bukan fmt.Println().**
+- ✔ **Gunakan goroutines dan channel untuk concurrency.**
 
 # Golang Backend Best Practices
 
